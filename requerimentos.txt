@@ -1,0 +1,3 @@
+pip install pandas
+pip install requests
+pip install flet==0.28.3
